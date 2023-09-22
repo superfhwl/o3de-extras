@@ -2239,7 +2239,24 @@
                                 }
                             }
                         },
-                        "lidarImplementation": "Scene Queries"
+                        "lidarCore": {
+                            "lidarConfiguration": {
+                                "lidarModelName": "Ouster OS0-64",
+                                "lidarImplementation": "RobotecGPULidar",
+                                "LidarParameters": {
+                                    "Name": "Ouster OS0-64",
+                                    "Layers": 64,
+                                    "Points per layer": 2048,
+                                    "Min vertical angle": -45.0,
+                                    "Max vertical angle": 45.0,
+                                    "Max range": 47.5,
+                                    "Noise Parameters": {
+                                        "Distance noise standard deviation base": 0.0,
+                                        "Distance noise standard deviation slope": 0.0020000000949949026
+                                    }
+                                }
+                            }
+                        }
                     }
                 },
                 "Component_[1828080485137528399]": {

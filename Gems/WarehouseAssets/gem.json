@@ -23,7 +23,8 @@
     "repo_uri": "https://raw.githubusercontent.com/o3de/o3de-extras/development",
     "compatible_engines": [
         "o3de-sdk>=1.2.0",
-        "o3de>=1.2.0"
+        "o3de>=1.2.0",
+        "orcaengine_merge>=2.1.0"
     ],
     "engine_api_dependencies": [],
     "restricted": "",
