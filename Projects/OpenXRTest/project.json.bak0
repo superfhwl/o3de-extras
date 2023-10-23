@@ -15,7 +15,7 @@
         "OpenXRTest"
     ],
     "icon_path": "preview.png",
-    "engine": "orcaengine_merge",
+    "engine": "o3de",
     "external_subdirectories": [
         "Gem"
     ],
@@ -23,6 +23,5 @@
     "gem_names": [
         "XR",
         "OpenXRVk"
-    ],
-    "engine_version": "3.0.0"
+    ]
 }

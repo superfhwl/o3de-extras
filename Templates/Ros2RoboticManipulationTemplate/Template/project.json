@@ -13,12 +13,12 @@
         "${Name}"
     ],
     "icon_path": "preview.png",
-    "engine": "o3de",
+    "engine": "orcaengine_merge",
     "external_subdirectories": [
         "Gem"
     ],
     "restricted": "MySimulationProject",
-    "engine_version": "2.1.0",
+    "engine_version": "3.0.0",
     "gem_names": [
         "WarehouseAssets",
         "WarehouseAutomation",

@@ -20,7 +20,8 @@
     "requirements": "",
     "compatible_engines": [
         "o3de-sdk>=1.2.0",
-        "o3de>=1.2.0"
+        "o3de>=1.2.0",
+        "orcaengine_merge>=3.0.0"
     ],
     "documentation_url": "",
     "dependencies": [
